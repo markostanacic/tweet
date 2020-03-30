@@ -10,7 +10,7 @@ public class PostMapperTest {
 
     @BeforeEach
     public void setUp() {
-        postMapper = new PostMapperImpl();
+        // postMapper = new PostMapperImpl();
     }
 
     @Test
